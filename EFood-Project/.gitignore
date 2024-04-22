@@ -499,3 +499,4 @@ secrets/
 credentials/
 
 **/appsettings.Development.json
+**/ appsettings.json
